@@ -1,1 +1,2 @@
 Here we add new text file for checking github
+Add new command here 
