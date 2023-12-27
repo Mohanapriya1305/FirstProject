@@ -1,3 +1,1 @@
 Here we add new text file for checking github
-Add new command here 
-checkout the text file and revert the file to old commit
